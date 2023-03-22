@@ -1,0 +1,20 @@
+# ninja log v5
+1	812	701221032	22_3_anagrams/CMakeFiles/22_3_anagrams.dir/22_3_anagrams.cpp.obj	667a0751a1d3a7a6
+812	4943	701221033	22_3_anagrams/22_3_anagrams.exe	2f50f1aad5f11b5c
+0	1021	701221329	src/CMakeFiles/22_3_anagrams.dir/main.cpp.obj	61db7c85a5bb5d34
+1022	7366	701221332	src/22_3_anagrams.exe	a647cea53bdcb116
+1	594	701221648	build.ninja	46a46bccf42005cb
+1	238076	701222017	build.ninja	46a46bccf42005cb
+1	902	701222051	build.ninja	46a46bccf42005cb
+1	478	701222882	build.ninja	46a46bccf42005cb
+1	584	701222883	src/CMakeFiles/22_3_anagrams.dir/main.cpp.obj	61db7c85a5bb5d34
+584	2663	701222883	src/22_3_anagrams.exe	a647cea53bdcb116
+1	471	701223792	build.ninja	46a46bccf42005cb
+8	823	701223793	src/CMakeFiles/22_3_anagrams.dir/functions.cpp.obj	15f8be273aa507e2
+1	824	701223793	src/CMakeFiles/22_3_anagrams.dir/main.cpp.obj	15d1f1caa50eca76
+824	3327	701223794	src/22_3_anagrams.exe	11edd092ec3ff8f2
+0	1002	701225453	src/CMakeFiles/22_3_anagrams.dir/main.cpp.obj	15d1f1caa50eca76
+6	1083	701225453	src/CMakeFiles/22_3_anagrams.dir/functions.cpp.obj	15f8be273aa507e2
+1083	4259	701225454	src/22_3_anagrams.exe	11edd092ec3ff8f2
+0	586	701225495	src/CMakeFiles/22_3_anagrams.dir/main.cpp.obj	15d1f1caa50eca76
+587	3140	701225496	src/22_3_anagrams.exe	11edd092ec3ff8f2
